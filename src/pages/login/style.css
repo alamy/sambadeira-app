@@ -1,0 +1,29 @@
+.label-login {
+    width: 100%;
+    text-align: center;
+    display: block;
+    color: #fff;
+    margin: 4px 0;
+}
+
+.input-login {
+    width: 100%;
+    display: block;
+    border-radius: 0.9rem;
+    border: none;
+    padding: 5px 0;
+    margin-bottom: 10px;
+}
+.login {
+    height: 100vh;
+    padding: 10% 20%;
+    background-color: #410050;
+}
+
+.btn-login {
+    width: 100%;
+    border: none;
+    background: #FFF;
+    border-radius: 5px;
+    padding: 4px 0;
+}
