@@ -1,3 +1,4 @@
+
 .label-login {
     width: 100%;
     text-align: center;
@@ -9,21 +10,32 @@
 .input-login {
     width: 100%;
     display: block;
-    border-radius: 0.9rem;
+    border-radius: 0.3rem;
     border: none;
-    padding: 5px 0;
+    height: 22px;
+    text-align: center;
+    padding: 5px 0%;
     margin-bottom: 10px;
+
 }
 .login {
     height: 100vh;
-    padding: 10% 20%;
-    background-color: #410050;
+    overflow: hidden;
+    padding: 0vh 10vw 0vh 10vw;
+
+    width: 100vw;
+    background-color: #6b237b;
 }
 
 .btn-login {
     width: 100%;
     border: none;
     background: #FFF;
-    border-radius: 5px;
-    padding: 4px 0;
+    border-radius: 0.3rem;
+    margin-top: 12px;
+    padding: 5px 0;
+}
+.login h2 {
+    text-align: center;
+    color: #fff;
 }
