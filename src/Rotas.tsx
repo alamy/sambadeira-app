@@ -9,7 +9,7 @@ const Rotas = () => {
         <BrowserRouter>
         <Routes>
         <Route path="/home" element={<Home />}/>
-        <Route index element={<Login />} />
+        <Route path="/sambadeira-app" element={<Login />} />
         
       </Routes>
       </BrowserRouter>
