@@ -53,6 +53,8 @@ function Loging(dateUser: any, unserAcount: any, senha:any, nasc:any){
        <Home cpf={login} />
   
     }
+
+    
          </div>
         </>
     )

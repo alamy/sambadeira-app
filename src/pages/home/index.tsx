@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import Date from '../../date.json'
 import './estilo.css'
+import PerfilComponent from '../../componet/PerfilComponent'
 
 export interface UsuarioSamba {
     nome: String
@@ -35,10 +36,7 @@ const Home = (cpf: any) => {
 
     return (
         <>
-            <div className="border border-white text-center mt-10 text-white ">
-                <p className='mt-4'>{use?.Nome}</p>
-                <p className='mb-4'>{use?.INSTRUMENTO}</p>
-            </div>
+           <PerfilComponent use={use} />
 
 
             <ul className="list-none hover:list-disc list-inside block text-white  border-white border mt-9 mb-8 p-4 ">
