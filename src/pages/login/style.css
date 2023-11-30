@@ -1,7 +1,7 @@
 
 .label-login {
     width: 100%;
-    text-align: center;
+    text-align: left;
     display: block;
     color: #fff;
     margin: 4px 0;
@@ -12,7 +12,7 @@
     display: block;
     border-radius: 0.3rem;
     border: none;
-    height: 22px;
+    height: 32px;
     text-align: center;
     padding: 5px 0%;
     margin-bottom: 10px;
@@ -22,20 +22,30 @@
     height: 100vh;
     overflow: hidden;
     padding: 0vh 10vw 0vh 10vw;
-
     width: 100vw;
-    background-color: #6b237b;
+    background-color: #7c2aea;
 }
 
 .btn-login {
     width: 100%;
     border: none;
-    background: #FFF;
+    background: #FF00FE;
+    color: #fff;
     border-radius: 0.3rem;
     margin-top: 12px;
-    padding: 5px 0;
+    font-size: 1.2em;
+    padding: 9px 0;
 }
 .login h2 {
-    text-align: center;
+    text-align: left;
+    font-size: 1.8em;
+    font-weight: bold;
     color: #fff;
+}
+
+.img-login {
+    width: 220px;
+    height: 220px;
+    display: block;
+    margin:  40px auto;
 }
