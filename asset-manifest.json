@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/sambadeira-app/static/css/main.31525fc7.css",
-    "main.js": "/sambadeira-app/static/js/main.5336dddf.js",
+    "main.css": "/sambadeira-app/static/css/main.a07b5802.css",
+    "main.js": "/sambadeira-app/static/js/main.932672f9.js",
     "static/js/787.9090768c.chunk.js": "/sambadeira-app/static/js/787.9090768c.chunk.js",
+    "static/media/Logo.jpeg": "/sambadeira-app/static/media/Logo.dc767218cdd4f35e301b.jpeg",
     "index.html": "/sambadeira-app/index.html",
-    "main.31525fc7.css.map": "/sambadeira-app/static/css/main.31525fc7.css.map",
-    "main.5336dddf.js.map": "/sambadeira-app/static/js/main.5336dddf.js.map",
+    "main.a07b5802.css.map": "/sambadeira-app/static/css/main.a07b5802.css.map",
+    "main.932672f9.js.map": "/sambadeira-app/static/js/main.932672f9.js.map",
     "787.9090768c.chunk.js.map": "/sambadeira-app/static/js/787.9090768c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31525fc7.css",
-    "static/js/main.5336dddf.js"
+    "static/css/main.a07b5802.css",
+    "static/js/main.932672f9.js"
   ]
 }
